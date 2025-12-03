@@ -113,3 +113,10 @@ Tap Restore Purchases
 Follow the on-screen prompt
 
 If that doesn’t work, contact me and I’ll help you get it resolved.
+
+## Demo QR Code for App Review
+
+Scan this QR code to test the scanner feature:
+
+![Demo QR](images/demo-qr.png)
+
